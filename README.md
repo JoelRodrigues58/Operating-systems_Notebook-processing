@@ -3,7 +3,8 @@
 Este projeto concretiza um sistema para processamento de notebooks, que misturam fragmentos de código, resultados da execução, e documentação. Neste contexto, um notebook é um ficheiro de texto que depois de processado é modificado de modo a incorporar resultados da execução de código ou comandos nele embebidos. O projeto foi desenvolvido num ambiente de linguagem de programação C, recorrendo a diversas System Calls indispensáveis para um sistema totalmente paralelo. 
 
 Em modo exemplificativo, a seguir apresenta-se um notebook antes e depois de processado: 
-![](exemplo.png =250x250)
+
+[](exemplo.png)
 
 *Onde, o comando 1 e 2 dependem apenas do output do comando 0*
 
@@ -15,7 +16,7 @@ Em modo exemplificativo, a seguir apresenta-se um notebook antes e depois de pro
 - Acesso a resultados de comandos anteriores arbitrários
 
 ## Estrutura do sistema
-![](estrutura.png =400x300)
+[](estrutura.png)
 
 ## Como executar
 ```
