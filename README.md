@@ -18,6 +18,10 @@ Em modo exemplificativo, a seguir apresenta-se um notebook antes e depois de pro
 ## Estrutura do sistema
 <img width="600" src="arquitetura.png">
 
+- ![#ffe066](https://placehold.it/15/ffe066/000000?text=+) *Pipes*
+- ![#ff3300](https://placehold.it/15/ff3300/000000?text=+) *Controladores de fluxo*
+- ![#40bf40](https://placehold.it/15/40bf40/000000?text=+) *Redirecionamento de outputs*
+- ![#000000](https://placehold.it/15/000000/000000?text=+) *Logs intermédios e escrito no notebook final*
 ## Como executar
 ```
 make clean
