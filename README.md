@@ -4,7 +4,7 @@ Este projeto concretiza um sistema para processamento de notebooks, que misturam
 
 Em modo exemplificativo, a seguir apresenta-se um notebook antes e depois de processado: 
 
-<img width="200"src="exemplo.png">
+<img width="200" src="exemplo.png">
 
 *Onde, o comando 1 e 2 dependem apenas do output do comando 0*
 
@@ -16,7 +16,7 @@ Em modo exemplificativo, a seguir apresenta-se um notebook antes e depois de pro
 - Acesso a resultados de comandos anteriores arbitrários
 
 ## Estrutura do sistema
-<img width="400"src="arquitetura.png">
+<img width="400" src="arquitetura.png">
 
 ## Como executar
 ```
