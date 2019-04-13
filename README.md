@@ -1,4 +1,5 @@
 # Notebook Processing 
+Projeto Sistemas Operativos 2017/2018, Mestrado Integrado em Engenharia Informática, Universidade do Minho, Braga - Portugal
 
 Este projeto concretiza um sistema para processamento de notebooks, que misturam fragmentos de código, resultados da execução, e documentação. Neste contexto, um notebook é um ficheiro de texto que depois de processado é modificado de modo a incorporar resultados da execução de código ou comandos nele embebidos. O projeto foi desenvolvido num ambiente de linguagem de programação C, recorrendo a diversas System Calls indispensáveis para um sistema totalmente paralelo. 
 
