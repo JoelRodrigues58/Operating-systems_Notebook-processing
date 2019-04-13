@@ -22,6 +22,9 @@ Em modo exemplificativo, a seguir apresenta-se um notebook antes e depois de pro
 - ![#ff3300](https://placehold.it/15/ff3300/000000?text=+) *Controladores de fluxo*
 - ![#40bf40](https://placehold.it/15/40bf40/000000?text=+) *Redirecionamento de outputs*
 - ![#000000](https://placehold.it/15/000000/000000?text=+) *Logs intermédios e escrita no notebook final*
+- ![#33ccff](https://placehold.it/15/33ccff/000000?text=+) *Execuções de comandos*
+
+
 ## Como executar
 ```
 make clean
