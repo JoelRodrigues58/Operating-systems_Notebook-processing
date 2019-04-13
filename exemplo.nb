@@ -1,0 +1,6 @@
+Este comando lista os ficheiros:
+$ ls -la
+Este comando ordena os ficheiros:
+$1| sort
+Este comando retorna o primeiro ficheiro da lista:
+$2| head -1
