@@ -6,7 +6,7 @@ Em modo exemplificativo, a seguir apresenta-se um notebook antes e depois de pro
 
 <img width="500" src="exemplo.png">
 
-*Onde, $x representa as dependências do comando, neste caso, o comando 1 e 2 dependem apenas do output do comando 0*
+*Onde, $x representa a dependência do n-ésimo comando anterior, neste caso, o comando 1 e 2 dependem apenas do output do comando 0*
 
 ## Funcionalidades básicas do sistema
 
